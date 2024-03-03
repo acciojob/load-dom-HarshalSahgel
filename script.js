@@ -1,4 +1,4 @@
 //your JS code here. If required.
  function bodyload() {
- 	console.log("DOM load success");
+ 	document.write("DOM load success");
  }
